@@ -1,0 +1,11 @@
+commit_id,developer_name,lines_added,priority,message,clean_tokens,word_count
+c001,Alice,120,Medium,Fix bug,"['fix', 'bug']",2
+c002,Bob,45,Low,Update readme,"['update', 'readme']",2
+c003,Alice,600,High,Auth refactor,"['auth', 'refactor']",2
+c004,Charlie,10,Low,Typo,['typo'],1
+c005,Bob,30,Low,Style,['style'],1
+c006,Alice,750,High,Clustering,['clustering'],1
+c007,Charlie,15,Low,Link,['link'],1
+c008,Alice,200,Medium,Helper,['helper'],1
+c009,Bob,50,Low,Fix,['fix'],1
+c010,Dave,1000,High,Pipeline,['pipeline'],1
